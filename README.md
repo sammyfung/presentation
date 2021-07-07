@@ -18,6 +18,7 @@ Sammy Fung (@sammyfung)'s Presentations. You are welcome to send speech invitati
 |14 Nov 2020|DevRel - Transform article writing from printing to online|Virtual|DevRel/Asia 2020|DevRel/Asia|
 |07 Nov 2020|2020 Q2 Report of PyCon HK and the local Python community|Virtual|PyCon HK 2020 Fall|PyCon HK|
 |06 Nov 2020|The status of the Python community in 2020|Virtual|PyCon HK 2020 Fall|PyCon HK|
+|08 Jul 2020|My open source journey: developer and community|Virtual|Hour of Code Hong Kong|HoCHK|
 |10 May 2020|What can we do for the Python community in Hong Kong in 2020?|Virtual|PyCon HK 2020 Spring|PyCon HK|
 
 ## 2019
