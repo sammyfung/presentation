@@ -24,7 +24,7 @@ Sammy Fung (@sammyfung)'s Presentations. You are welcome to send speech invitati
 
 |Date|Topic Title|Location|Event|Organiser|
 | --- | --- | --- | --- | --- |
-|29 Oct 2019||Hong Kong Productivity Council, Hong Kong|2nd Open Data Conference|HKU SSRC|
+|29 Oct 2019|Enterprise Adoption and Business Models of Open Sources and Open Data|Hong Kong Productivity Council, Hong Kong|2nd Open Data Conference|HKU SSRC|
 |24 Sep 2019|A Citizen-led Approach to Accelerate the Availability of Public Data in Machine Readable Format in Hong Kong|Devan Nair Institute (e2i west), Singapore|IKO Conference Singapore 2019|IKO|
 |17 Aug 2019|My open source journey: developer and community|NTUST, Taipei, Taiwan|COSCUP 2019|COSCUP|
 
