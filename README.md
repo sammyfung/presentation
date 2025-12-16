@@ -1,5 +1,12 @@
 # Presentation
-Sammy Fung (@sammyfung)'s Presentations. You are welcome to send speech invitation by email to sammy@sammy.hk.
+
+The list of Sammy Fung (@sammyfung)'s Presentations is the following. You are welcome to send a speech invitation by email to sammy@sammy.hk.
+
+## 2025
+|Date|Topic Title|Location|Event|Organiser|
+| --- | --- | --- | --- | --- |
+|14 Dec 2025|Workshop on Sustaining & Growing Open Source Communities|Internet Initiative Japan Inc.,Tokyo, Japan / Virtual|GNOME Asia Summit 2025|GNOME|
+|02 Nov 2025|Harnessing Web Crawling for Agentic AI RAG Systems|Dorsett Kai Tak|AWS Community Day Hong Kong 2025|AWS User Group HK|
 
 ## 2021
 
